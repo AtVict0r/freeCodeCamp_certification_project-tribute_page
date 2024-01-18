@@ -10,7 +10,7 @@ The project focuses on creating a tribute page for a chosen character, in this c
 
 - `index.html`: HTML file containing the structure and content of the tribute page.
 - `css/styles.css`: CSS file providing styles for the HTML elements.
-- `images/oliver_twist_image.jpg`: JPG file containing an illustration of the character Oliver Twist.
+- `images/oliver_twist_image.png`: PNG file containing an ai generated illustration of the character Oliver Twist.
 
 ## User Stories
 
